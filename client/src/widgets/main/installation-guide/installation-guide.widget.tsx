@@ -192,7 +192,7 @@ export const InstallationGuideWidget = () => {
                         <Group>
                             <Button
                                 component="a"
-                                href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/clash-verge-rev_2.2.2_x64-setup.exe"
+                                href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_x64-setup.exe"
                                 leftSection={<IconExternalLink size={16} />}
                                 target="_blank"
                                 variant="light"
@@ -201,7 +201,7 @@ export const InstallationGuideWidget = () => {
                             </Button>
                             <Button
                                 component="a"
-                                href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/clash-verge-rev_2.2.2_aarch64.dmg"
+                                href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_aarch64.dmg"
                                 leftSection={<IconExternalLink size={16} />}
                                 target="_blank"
                                 variant="light"
@@ -210,7 +210,7 @@ export const InstallationGuideWidget = () => {
                             </Button>
                             <Button
                                 component="a"
-                                href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/clash-verge-rev_2.2.2_x64.dmg"
+                                href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_x64.dmg"
                                 leftSection={<IconExternalLink size={16} />}
                                 target="_blank"
                                 variant="light"
@@ -219,7 +219,7 @@ export const InstallationGuideWidget = () => {
                             </Button>
                             <Button
                                 component="a"
-                                href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/clash-verge-rev_2.2.2_amd64.deb"
+                                href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_amd64.deb"
                                 leftSection={<IconExternalLink size={16} />}
                                 target="_blank"
                                 variant="light"
