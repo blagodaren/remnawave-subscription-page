@@ -18,7 +18,7 @@
             "connect-and-use-description-singbox": "در صفحه اصلی داشبورد، دکمه «فعال» را برای اتصال به VPN بزنید.",
             "install-flclash": "نصب و باز کردن FlClash",
             "install-flclash-description": "صفحه GitHub را باز کنید، برنامه را دانلود و نصب کنید.",
-            "select-server-flclash": "در بخش اصلی داشبورد، دکمه روشن را در گوشه پایین سمت راست برای اتصال به VPN بزنید. در صورت نیاز، در بخش پروکسی سرور دیگری را انتخاب کنید. لذت ببرید! :)",            
+            "select-server-flclash": "در بخش اصلی داشبورد، دکمه روشن را در گوشه پایین سمت راست برای اتصال به VPN بزنید. در صورت نیاز، در بخش پروکسی سرور دیگری را انتخاب کنید. لذت ببرید! :)",
             "instrukciya": "Instructions",
             "pk": "PC",
             "ustanovite-i-otkroite-happ": "Install and open Happ",
@@ -36,7 +36,10 @@
             "install-hiddify": "Install and open Hiddify",
             "install-hiddify-description": "Install the app. Launch it, select Russia region, then click Start.",
             "add-subscription-pc-description": "Click the button below — the app will open and the subscription will be added automatically. If this doesn't happen, close the app and try again.",
-            "select-server-hiddify": "In the main section, click the large power button in the center to connect to VPN. If needed, select a different server in the Proxy section."
+            "select-server-hiddify": "In the main section, click the large power button in the center to connect to VPN. If needed, select a different server in the Proxy section.",
+            "install-clash-verge-rev": "نصب و باز کردن Clash Verge Rev",
+            "install-clash-verge-rev-description": "صفحه GitHub را باز کنید، برنامه را دانلود و نصب کنید.",
+            "select-server-clash-verge-rev": "در بخش اصلی داشبورد، دکمه روشن را در گوشه پایین سمت راست برای اتصال به VPN بزنید. در صورت نیاز، در بخش پروکسی سرور دیگری را انتخاب کنید. لذت ببرید! :)"
         }
     },
     "subscription-link": {

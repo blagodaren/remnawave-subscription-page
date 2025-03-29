@@ -36,7 +36,10 @@
             "install-hiddify": "Install and open Hiddify",
             "install-hiddify-description": "Install the app. Launch it, select Russia region, then click Start.",
             "add-subscription-pc-description": "Click the button below — the app will open and the subscription will be added automatically. If this doesn't happen, close the app and try again.",
-            "select-server-hiddify": "In the main section, click the large power button in the center to connect to VPN. If needed, select a different server in the Proxy section."
+            "select-server-hiddify": "In the main section, click the large power button in the center to connect to VPN. If needed, select a different server in the Proxy section.",
+            "install-clash-verge-rev": "Install and open Clash Verge Rev",
+            "install-clash-verge-rev-description": "Open the GitHub page, download and install the application.",
+            "select-server-clash-verge-rev": "In the main Dashboard section, click the power button in the bottom right corner to connect to the VPN. If necessary, select a different server in the Proxy section. Enjoy! :)"
         }
     },
     "subscription-link": {

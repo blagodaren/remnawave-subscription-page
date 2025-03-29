@@ -184,15 +184,15 @@ export const InstallationGuideWidget = () => {
                                 <IconDownload size={16} />
                             </ThemeIcon>
                         }
-                        title={t('installation-guide.widget.install-flclash')}
+                        title={t('installation-guide.widget.install-clash-verge-rev')}
                     >
                         <Text c="dimmed" mb={16} size="sm">
-                            {t('installation-guide.widget.install-flclash-description')}
+                            {t('installation-guide.widget.install-clash-verge-rev-description')}
                         </Text>
                         <Group>
                             <Button
                                 component="a"
-                                href="https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-windows-amd64-setup.exe"
+                                href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/clash-verge-rev_2.2.2_x64-setup.exe"
                                 leftSection={<IconExternalLink size={16} />}
                                 target="_blank"
                                 variant="light"
@@ -201,7 +201,7 @@ export const InstallationGuideWidget = () => {
                             </Button>
                             <Button
                                 component="a"
-                                href="https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-macos-arm64.dmg"
+                                href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/clash-verge-rev_2.2.2_aarch64.dmg"
                                 leftSection={<IconExternalLink size={16} />}
                                 target="_blank"
                                 variant="light"
@@ -210,7 +210,7 @@ export const InstallationGuideWidget = () => {
                             </Button>
                             <Button
                                 component="a"
-                                href="https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-macos-amd64.dmg"
+                                href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/clash-verge-rev_2.2.2_x64.dmg"
                                 leftSection={<IconExternalLink size={16} />}
                                 target="_blank"
                                 variant="light"
@@ -219,7 +219,7 @@ export const InstallationGuideWidget = () => {
                             </Button>
                             <Button
                                 component="a"
-                                href="https://github.com/chen08209/FlClash/releases/download/v0.8.80/FlClash-0.8.80-linux-amd64.AppImage"
+                                href="https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/clash-verge-rev_2.2.2_amd64.deb"
                                 leftSection={<IconExternalLink size={16} />}
                                 target="_blank"
                                 variant="light"
@@ -254,7 +254,7 @@ export const InstallationGuideWidget = () => {
                         title={t('installation-guide.widget.connect-and-use')}
                     >
                         <Text c="dimmed" size="sm">
-                            {t('installation-guide.widget.select-server-flclash')}
+                            {t('installation-guide.widget.select-server-clash-verge-rev')}
                         </Text>
                     </Timeline.Item>
                 </Timeline>
